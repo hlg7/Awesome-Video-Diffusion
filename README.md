@@ -1248,6 +1248,13 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Controllable Video Generation
 
++ [PhyCo: Learning Controllable Physical Priors for Generative Motion](https://phyco-video.github.io/) (CVPR 2026)
+  [![Star](https://img.shields.io/github/stars/nnsriram97/phyco.svg?style=social&label=Star)](https://github.com/nnsriram97/phyco)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.28169)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://phyco-video.github.io/)
+  [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/datasets/nnsriram97/phyco_kubric)
+  [![Simulation Code](https://img.shields.io/badge/Simulation_Code-blue)](https://github.com/nnsriram97/phyco-sim)
+
 + [**ID-Crafter: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation**](https://arxiv.org/pdf/2511.00511v3) (CVPR, 2026) [![Star](https://img.shields.io/github/stars/paulpanwang/ID-Crafter.svg?style=social&label=Star)](https://github.com/paulpanwang/ID-Crafter) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.00511v3) [![Website](https://img.shields.io/badge/Website-9cf)](https://paulpanwang.github.io/ID-Crafter)
 
 
