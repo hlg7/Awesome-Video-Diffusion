@@ -52,6 +52,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Open-source Toolboxes and Foundation Models 
 
++ [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter)  
+  [![Star](https://img.shields.io/github/stars/WayneJin0918/Omni-Rewriter.svg?style=social&label=Star)](https://github.com/WayneJin0918/Omni-Rewriter)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://waynejin0918.github.io/Omni-Rewriter/)  
+  Open agentic prompt-expansion harness for image/video generation (schema → validate → bounded repair → dialect render; H3/Seedance/Seedream/Qwen-Image). Expand ≠ generate.
+
 + [NanoI2V](https://github.com/Shubham2376G/NanoI2V)  
   [![Star](https://img.shields.io/github/stars/Shubham2376G/NanoI2V.svg?style=social&label=Star)](https://github.com/Shubham2376G/NanoI2V)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://shubham2376g.github.io/NanoI2V/)  
