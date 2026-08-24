@@ -2384,6 +2384,10 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10082)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cjeen.github.io/LoraEditPaper/)
 
++ [OutDreamer: Video Outpainting with a Diffusion Transformer](https://arxiv.org/abs/2506.22298) (Jun., 2025 | IEEE TIP 2026)
+  [![Star](https://img.shields.io/github/stars/zhongzero/OutDreamer.svg?style=social&label=Star)](https://github.com/zhongzero/OutDreamer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.22298)
+
 + [UNIC: Unified In-Context Video Editing](https://arxiv.org/abs/2506.04216) (Jun, 2025)    
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04216)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zixuan-ye.github.io/UNIC/)
