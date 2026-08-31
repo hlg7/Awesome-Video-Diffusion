@@ -1206,6 +1206,11 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481)
 
 ### Efficient Video Generation
++ [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](https://arxiv.org/abs/2607.23159) (Jul., 2026)   
+  [![Star](https://img.shields.io/github/stars/shreshthsaini/CachedSearch.svg?style=social&label=Star)](https://github.com/shreshthsaini/CachedSearch)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.23159)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shreshthsaini.github.io/CachedSearch/)
+
 + [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137) (Feb., 2025)   
   [![Star](https://img.shields.io/github/stars/thu-ml/SpargeAttn)](https://github.com/thu-ml/SpargeAttn)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.18137)
